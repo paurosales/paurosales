@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a junior bioinfromatician from Robert Schneider's lab at Helmholtz Zentrum München. I mainly focus on bioinformatic analysis of RNA-seq data, especially on nascent RNA generated from metabolic labeling techniques. Overall very interested in using sequencing approaches to understand how RNA dynamics impact on different epigenetic processes.
+
+Currently working on:
+
+💻 Novel methods for identifying, quantifying and assessing differential usage of RNA-seq data composed of single and double nucleotide conversions for the study of RNA life.
+🐍 *Snakemake* pipelines for reproducile analysis of RNA-seq data.
+
+📫 Feel free to reach me at *paulina.rosales@helmholtz-munich.de*.
 <!--
 **paurosales/paurosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
